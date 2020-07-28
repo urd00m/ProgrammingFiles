@@ -8,3 +8,5 @@ Contains some SPOJ and UVa problem solutions in java
 All programs are in java
 
 2020 open USACO will not be posted until results are posted for the contest along with 2016-2019
+
+# Libraries for push to platinum 
